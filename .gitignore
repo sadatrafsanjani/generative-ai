@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 *.keras
+face/
+img_align_celeba/
+*.txt
